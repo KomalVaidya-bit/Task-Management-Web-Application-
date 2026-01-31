@@ -53,3 +53,22 @@ task-manager/
     ├── index.html
     ├── style.css
     └── script.js
+
+
+
+
+
+Setup Instructions
+ 1. Clone the repository
+```bash
+
+git clone https://github.com/KomalVaidya-bit/Task-Management-Web-Application-.git
+
+2. Go to backend folder 
+cd backend
+
+3. Start backend server
+node server.js     server will run  http://localhost:5000
+
+4. Open frontend
+Open frontend/index.html using Live Server or directly in browser.
